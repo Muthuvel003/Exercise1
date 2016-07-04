@@ -1,18 +1,16 @@
 body{
 	background: gray;
 }
-h1,h3{
-	margin-left:425px;
-	text-decoration:none;
+div{
+	width:600px;
+	margin:auto;
 	font-family: sans-serif;
 }
-#p1,li{
-margin-left:425px;
-}
-div{
+blockquote{
+	margin-left:0;
 	width:500px;
 	text-align:center;
-	margin:auto;
+	margin:right:0;
 	border: 1px white solid;
 	margin-bottom:10px;
 }
